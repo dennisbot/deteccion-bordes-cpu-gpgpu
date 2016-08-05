@@ -10,5 +10,5 @@ usando Visual Studio 2013 Community en Windows 7 64 bits.
 
 [![alt text][2]][1]
 
-  [1]: http://meta.stackoverflow.com/users/44330/jason-s
-  [2]: http://www.gravatar.com/avatar/dd57e..dfd07?s=128&d=identicon&r=PG (hover text)
+  [1]: https://github.com/dennisbot/deteccion-bordes-cpu-gpgpu/blob/master/grafico.jpg
+  [2]: https://github.com/dennisbot/deteccion-bordes-cpu-gpgpu/blob/master/grafico.jpg (gráfico comparativo CPU VS GPGPU)
