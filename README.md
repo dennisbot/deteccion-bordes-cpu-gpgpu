@@ -8,7 +8,7 @@ versus CPU
 El proyecto hace uso de la librería Cimg.h para mostrar las imágenes y cuda_7.5.18_windows.exe
 usando Visual Studio 2013 Community en Windows 7 64 bits.
 
-[![alt text][2]][1]
+->[![alt text][2]][1]<-
 
   [1]: https://github.com/dennisbot/deteccion-bordes-cpu-gpgpu/blob/master/grafico.jpg
   [2]: https://github.com/dennisbot/deteccion-bordes-cpu-gpgpu/blob/master/grafico.jpg (gráfico comparativo CPU VS GPGPU)
